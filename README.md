@@ -65,6 +65,7 @@ ResearchAssistant/
 
 - [Final Presentation](annotated-PAS%20Final%20Presentation%20%281%29.pptx.pdf)
 - [Project Report](PAS_Project_Report.pdf)
+- [Research Results](results/) - Generated research reports and papers
 
 ## Contributing
 
